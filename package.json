@@ -1,0 +1,17 @@
+{
+  "name": "wubbobot",
+  "version": "0.0.1",
+  "description": "wubbobot-bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "yourlocalonion",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.12.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0"
+  }
+}
